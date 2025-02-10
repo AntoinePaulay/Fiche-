@@ -20,19 +20,19 @@ variable=modified
 
 # Comparaison de chaînes
 
-s1 = s2 : vrai si les chaînes sont identiques
-s1 != s2 : vrai si les chaînes sont différentes
--z s1 : vrai si s1 est vide
--n s1 : vrai si s1 n'est pas vide
+* s1 = s2 : vrai si les chaînes sont identiques
+* s1 != s2 : vrai si les chaînes sont différentes
+* -z s1 : vrai si s1 est vide
+* -n s1 : vrai si s1 n'est pas vide
 
 # Comparaison de nombres
 
-n1 -eq n2 : vrai si les nombres sont égaux
-n1 -ne n2 : 0 si les nombres sont différents
-n1 -lt n2 : n1 < n2
-n1 -le n2 : n1 <= n2
-n1 -gt n2 : n1 > n2
-n1 -ge n2 : n1 >= n2
+* n1 -eq n2 : vrai si les nombres sont égaux
+* n1 -ne n2 : 0 si les nombres sont différents
+* n1 -lt n2 : n1 < n2
+* n1 -le n2 : n1 <= n2
+* n1 -gt n2 : n1 > n2
+* n1 -ge n2 : n1 >= n2
 
 Structure conditionnelle if
 if condition
