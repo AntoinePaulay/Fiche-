@@ -72,6 +72,15 @@ instructions
 }
 
 
+## Commandes utiles pour consulter les logs
+
+cat, more, less, zcat, zmore, zless : consultation en entier
+head, tail : consultation en partie
+grep, zgrep : recherche par filtre
+watch : exécution périodique de commande
+dmesg : Cas particulier des logs du noyau
+last, lastb : Cas particulier login/out utilisateurs et échec
+
 ### Les gestionnaires de paquets
 
 Debian avec DPKG
