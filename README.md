@@ -71,6 +71,22 @@ function nom()
 instructions
 }
 
+Linux
+passwd : modifier un mot de passe
+adduser : ajout d'utilisateurs
+deluser : suppression d'utilisateurs
+usermod : modifier un utilisateur
+chfn : modifier la description d'un utilisateur
+chsh : modifier le shell par défaut d'un utilisateur
+chage : modifier durée de validité
+newusers : création d'utilisateurs par lot
+pwck : vérification du format des fichier passwd et shadow
+newgrp : prendre un nouveau groupe
+groupadd : ajout d'un groupe
+groupdel : suppression d'un groupe
+groupmod : modifier un groupe
+grpck : vérification du format des fichier group et gshadow
+
 
 ## Commandes utiles pour consulter les logs
 
