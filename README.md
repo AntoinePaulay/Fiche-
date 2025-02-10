@@ -80,6 +80,14 @@ Red Hat avec RPM
 Debian a APT
 Red Hat a YUM
 
+![image](https://github.com/user-attachments/assets/15ba1642-db73-4dd3-9be4-13191f427d5d)
+
+deb : dépôt binaire
+deb-src : dépôt de code source
+
+
+
+
 
 
 
