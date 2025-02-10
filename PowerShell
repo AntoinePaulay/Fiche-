@@ -1,0 +1,10 @@
+Windows
+Disable-LocalUser : permet de désactiver un compte utilisateur.
+Enable-LocalUser : permet d’activer un compte utilisateur.
+Get-LocalUser : liste l’ensemble des comptes utilisateur locaux présents sur le poste de travail.
+New-LocalUser : crée un nouveau compte utilisateur local.
+Get-LocalGroup : liste l’ensemble des groupes de sécurité locaux présents sur le poste de travail.
+New-LocalGroup : crée un nouveau groupe de sécurité local.
+Remove-LocalGroup : supprime un groupe de sécurité.
+Add-LocalGroupMember : ajoute un membre dans un groupe local.
+Get-LocalGroupMember : récupère les membres présents dans un groupe local.
