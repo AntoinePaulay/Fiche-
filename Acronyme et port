@@ -1,2 +1,4 @@
 APT (Advanced Packaging Tool)
 YUM (Yellowdog Updater)
+UDP (User Datagram Protocol)            514
+TCP (Transmission Control Protocol)     6514
