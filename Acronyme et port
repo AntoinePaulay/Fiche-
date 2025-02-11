@@ -1,8 +1,8 @@
-C:\Windows\System32\drivers\etc
+(C:\Windows\System32\drivers\etc)
 
-
-
-APT = Advanced Packaging Tool
+|   |   |   |   |
+|---|---|---|---|
+ | APT | Advanced Packaging Tool |   | 
 YUM  = Yellowdog Updater
 UDP = User Datagram Protocol                   514
 TCP  = Transmission Control Protocol           6514
