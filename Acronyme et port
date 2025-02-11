@@ -10,7 +10,7 @@
 | DORA | Discover, Offer, Request et Acknowledge |
 | DNS | Domain Name System | 53  port securiser 853 |
 SSH | Secure Shell |  22 TCP |   |
-HTTP|    |   80 |443 |
+HTTP| Hypertext Transfer Protocol   |   80 |443 |
 | AD DS  | Active Directory Domain Services |   |   |
 | SMD | Server Message Block                 |     445  |
 | LDAP | Lightweight Directory Access Protocol |    389 |
