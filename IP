@@ -36,6 +36,11 @@ Adresse du réseau actuel (si inconnu) : 0.0.0.0/8
 Adresses multicast : 224.0.0.0/4
 Adresse de diffusion (locale !) sur réseau inconnu : 255.255.255.255/32
 
+![](../Resources/Capture1.png)
+
+
+![](../)
+
 
 
 
@@ -47,3 +52,4 @@ Adresse de diffusion (locale !) sur réseau inconnu : 255.255.255.255/32
 * fe80::/10 => Adresses unicast lien local
 * fc00::/7 => Adresses unicast locales uniques (RFC 4193)
 * reste  => Adresses unicast globales (Internet/publiques)
+
