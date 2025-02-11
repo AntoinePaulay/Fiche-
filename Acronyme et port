@@ -21,7 +21,7 @@
 | GLPI | logiciel de gestion de parc | 
 | RAID | Redundant Array of Inexpensive Disks |
 | LVM | Logical Volume Manager |   |   |
-| VPN | Virtual Private Network |   |   |
+| VPN | Virtual Private Network |   |   | Trame => VPN de niveau 2 Paquet => VPN de niveau 3
 | ACL | Access Control List  |   |   |
 | FTP | File Transfer Protocol     | 21  |   |
 | FAT | File Allocation Table |   |   |
