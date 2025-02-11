@@ -1,36 +1,46 @@
   (C:\Windows\System32\drivers\etc)
 
-|   |   |   |   |
+| Acronyme   |   |  Port | Port Securiser  |
 |---|---|---|---|
-| APT | Advanced Packaging Tool |   | 
-| YUM | Yellowdog Updater |   |
-| UDP | User Datagram Protocol  | 514 |
-TCP  = Transmission Control Protocol           6514
-DHCP = Dynamic Host Configuration Protocol     DHCP  UDP  Port serveur  67 port client 68
-DORA = Discover, Offer, Request et Acknowledge
-DNS = Domain Name System                        53  port securiser 853
-SSH = Secure Shell                             22 TCP
-HTTP =                                         HPPT 80 ports securiser HPPTS 443
-AD DS  = Active Directory Domain Services
-SMD = Server Message Block                      445 
-LDAP = Lightweight Directory Access Protocol    389
-GPO = Group Policy Object
-FSMO = Flexible Single Master Operation
-CIDR = Classless Inter Domain Routing
-MDM = Mobile Decive Management 
-GLPI = logiciel de gestion de parc 
-RAID = Redundant Array of Inexpensive Disks
-LVM = Logical Volume Manager
-VPN = Virtual Private Network
-ACL = Access Control List 
-FTP = File Transfer Protocol                21
-FAT = File Allocation Table
-NTFS = New Technology File System
-TTL = Time To Live
-SMTP = Simple Mail Transfer Protocol        25 server SMPTS 465
-POP = Post Office Protocol                  110
-IMAP = Internet Message Access Protocol     143
-VOIP =voice over IP
-TOIP = Telephony over IP
-SIP = Session Initiation Protocol           5060 SIPS 5061 couche 5 OSI
-IKE = Internet Key Exchange                 500
+| APT | Advanced Packaging Tool |   |     |
+| YUM  | Yellowdog Updater |   |  |
+| UDP | User Datagram Protocol |   514 |   |
+| TCP  | Transmission Control Protocol |   6514 |
+| DHCP | Dynamic Host Configuration Protocol  |   67 | 68 |
+| DORA | Discover, Offer, Request et Acknowledge |
+| DNS | Domain Name System | 53  port securiser 853 |
+SSH | Secure Shell |  22 TCP |   |
+HTTP|    |   80 |443 |
+| AD DS  | Active Directory Domain Services |   |   |
+| SMD | Server Message Block                 |     445  |
+| LDAP | Lightweight Directory Access Protocol |    389 |
+| GPO | Group Policy Object |  |   |
+| FSMO | Flexible Single Master Operation |   |   |
+| CIDR | Classless Inter Domain Routing |
+| MDM | Mobile Decive Management |
+| GLPI | logiciel de gestion de parc | 
+| RAID | Redundant Array of Inexpensive Disks |
+| LVM | Logical Volume Manager |   |   |
+| VPN | Virtual Private Network |   |   |
+| ACL | Access Control List  |   |   |
+| FTP | File Transfer Protocol     | 21  |   |
+| FAT | File Allocation Table |   |   |
+| NTFS | New Technology File System |   |   |
+| TTL | Time To Live |   |   |
+| SMTP | Simple Mail Transfer Protocol   |  25 | 465  |
+| POP | Post Office Protocol           | 110  |   | 
+| IMAP | Internet Message Access Protocol   |  143 |   |
+| VOIP |voice over IP |   |   |
+| TOIP | Telephony over IP |   |   |
+| SIP | Session Initiation Protocol    |  5060 |  5061 | couche 5 OSI
+| IKE | Internet Key Exchange       | 500 |   | 
+| SNMP | Simple Network Management Protocol |  |  |
+| MIB | Management Information Base |  |  |
+|  RDP | Remote Desktop Protocol |  |  |
+| dig | Domain Information Groper |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
