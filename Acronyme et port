@@ -2,9 +2,9 @@
 
 |   |   |   |   |
 |---|---|---|---|
- | APT | Advanced Packaging Tool |   | 
-YUM  = Yellowdog Updater
-UDP = User Datagram Protocol                   514
+| APT | Advanced Packaging Tool |   | 
+| YUM | Yellowdog Updater |   |
+| UDP | User Datagram Protocol  | 514 |
 TCP  = Transmission Control Protocol           6514
 DHCP = Dynamic Host Configuration Protocol     DHCP  UDP  Port serveur  67 port client 68
 DORA = Discover, Offer, Request et Acknowledge
