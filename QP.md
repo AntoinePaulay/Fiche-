@@ -731,7 +731,7 @@ de l’IT sur les paquets
 
 
 
- # Attention Reponse Genere par IA 
+ # Attention Reponse Générée par IA
 
 1.C'est quoi le MDM ?
 
@@ -1109,13 +1109,86 @@ Vérifiez que toutes les étapes du processus d'offboarding ont été complété
 Assurez-vous que la transition des responsabilités s'est bien déroulée
 
 En suivant ces bonnes pratiques, vous assurerez une transition en douceur et sécurisée lors du départ d'un employé, tout en protégeant les intérêts de votre entreprise.
-13.Une utilisatrice revient de vacances, elle ne parvient plus à se connecter. Comment tu diagnostiques cela ?
-14.Sur cette même infra, nous avons un photocopieur. Il n'est plus possible d'imprimer avec. D'où peut venir le problème ?
-15.On ne parvient plus à accéder à notre serveur web depuis le raccourci.
+
 16.Je veux permettre au nouveau site de l'entreprise d'accéder au réseau du siège. Qu'est ce que je mets en place ? Explique moi le fonctionnement
 17.Quels moyens peux tu me donner pour prendre la main à distance sur un poste?
+
+Voici plusieurs moyens efficaces pour prendre la main à distance sur un poste :
+
+Logiciels dédiés
+TeamViewer : Solution populaire et polyvalente, permettant un accès rapide et sécurisé à distance 1 5 .
+
+AnyDesk : Offre une connectivité fluide sur divers appareils avec une faible latence 2 .
+
+Zoho Assist : Idéal pour l'assistance en temps réel et l'accès sans surveillance, avec des fonctionnalités de sécurité avancées 2 3 .
+
+Splashtop : Solution performante pour le support à distance sur plusieurs plateformes 4 .
+
+Solutions intégrées
+Microsoft Remote Desktop : Outil gratuit intégré à Windows, efficace pour l'accès à distance entre les appareils Windows 2 .
+
+Chrome Remote Desktop : Extension du navigateur Chrome permettant un accès à distance simple 3 .
+
+Assistance rapide Windows : Outil intégré à Windows pour une assistance ponctuelle 3 .
+
+Solutions pour entreprises
+Scalefusion UEM : Plateforme complète pour la gestion et le support à distance des appareils d'entreprise 2 .
+
+ManageEngine Remote Access Plus : Outil professionnel pour la gestion centralisée des postes de travail 3 7 .
+
+GLPI : Logiciel open source de gestion de services informatiques incluant des fonctionnalités de prise en main à distance 6 .
+
+Ces solutions offrent différentes fonctionnalités adaptées à divers besoins, que ce soit pour un usage personnel, professionnel ou en entreprise. Il est important de choisir l'outil le plus approprié en fonction de vos exigences spécifiques en termes de sécurité, de fonctionnalités et de compatibilité avec les systèmes d'exploitation utilisés.
 18.On veut installer une téléphonie interne dans l'entreprise. Qu'est ce qui doit être mis en place ?
+
+Pour installer une téléphonie interne dans votre entreprise, plusieurs éléments doivent être mis en place :
+
+Infrastructure de base
+Standard téléphonique : C'est le cœur du système qui gère les appels internes et externes. Il peut être physique (PABX) ou virtuel (IPBX) 1 4 .
+
+Réseau : Une infrastructure réseau robuste est nécessaire, surtout si vous optez pour une solution VoIP 6 .
+
+Équipements
+Téléphones fixes : Des postes filaires IP pour les bureaux, offrant des fonctionnalités comme le transfert d'appel et la mise en attente 2 .
+
+Téléphones sans fil (DECT) : Pour la mobilité au sein de l'entreprise 3 4 .
+
+Casques : Essentiels pour le confort des utilisateurs, surtout dans les centres d'appels 4 .
+
+Équipements de conférence : Pour les réunions à distance 2 .
+
+Logiciels et services
+Softphones : Applications permettant d'utiliser un ordinateur ou un smartphone comme téléphone 4 6 .
+
+Serveur Vocal Interactif (SVI) : Pour orienter les appels entrants vers les différents services 1 .
+
+Messagerie vocale : Pour enregistrer les messages en cas d'absence 6 .
+
+Outils de collaboration : Intégration de fonctionnalités comme la vidéoconférence et le partage d'écran 6 7 .
+
+Gestion et sécurité
+Portail d'administration : Pour gérer facilement les lignes, les services et les configurations 7 .
+
+Système de chiffrement : Pour sécuriser les communications, surtout avec les solutions IP 7 .
+
+En mettant en place ces éléments, vous obtiendrez un système de téléphonie interne complet et adapté aux besoins de votre entreprise. Il est important de choisir une solution évolutive qui pourra s'adapter à la croissance de votre entreprise 6
 19.Quelle est la différence entre un protocole et sa version sécurisée ?
+
+La principale différence entre un protocole et sa version sécurisée réside dans l'ajout de mécanismes de sécurité pour protéger les communications :
+
+Chiffrement des données : La version sécurisée utilise des algorithmes de chiffrement pour rendre les données illisibles aux niveaux non autorisés 2 3 .
+
+Authentification : Les protocoles sécurisés mettent en place des mécanismes pour vérifier l'identité des parties communicantes, souvent via des certificats numériques 2 .
+
+Intégrité des données : Des mécanismes sont ajoutés pour s'assurer que les données n'ont pas été altérées pendant la transmission 3 .
+
+Établissement de connexion sécurisée : Les versions sécurisées utilisent généralement un processus d'établissement de liaison (handshake) pour négocier les paramètres de sécurité 2 .
+
+Vulnérabilités réduites : Les versions sécurisées corrigent souvent les failles de sécurité connues dans les versions non sécurisées 3 .
+
+Par exemple, HTTPS est la version sécurisée de HTTP. Il ajoute une couche de chiffrement SSL/TLS pour protéger les données échangées entre le client et le serveur 6 . De même, SFTP est une version sécurisée de FTP qui implémente le chiffrement et l'authentification pour la transmission de fichiers 1 .
+
+En résumé, la version sécurisée d'un protocole vise à garantir la confidentialité, l'intégrité et l'authentification des communications, contrairement à la version non sécurisée qui se concentre uniquement sur la fonctionnalité de base.
 20.C'est quoi la différence entre crypté et chiffré ?
 21.Donne moi la différence entre un chiffrement symétrique et asymétrique. Peux tu me donner sommairement le fonctionnement d'une connexion utilisant ces chiffrements ?
 
