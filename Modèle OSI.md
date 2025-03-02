@@ -1,3 +1,9 @@
+
+![image](https://github.com/user-attachments/assets/16c3a1a4-4c65-49b0-ae2d-9871839f798b)
+
+
+
+
 ### Modèle OSI
 ![]()
 Couche 7: Application (PDU: données applicatives)
