@@ -1,4 +1,15 @@
 
+| |  |  Couche | Fonction |
+|---|---|---|---|
+| Pour  | Physique |  Couche 1 | 	Transmission des signaux sous forme numérique ou analogique |
+| Le | Liaison | Couche 2  | 	Adressage physique (adresse MAC)|
+| Reseau | Réseau | Couche 3| Détermine le parcours des données et l'adressage logique (adresse IP) |
+| Tout | Transport | Couche 4 | Connexion de bout en bout, connectabilité et contrôle de flux ; notion de port (TCP et UDP) |
+| Se | Session | Couche 5 | Communication Interhost, gère les sessions entre les différentes applications |
+| Passe | Présentation | Couche 6 | Gère le chiffrement et le déchiffrement des données, convertit les données machine en données exploitables par n'importe quelle autre machine |
+| Automatiquement | Application | Couche 7 | 	Point d'accès aux services réseau |
+
+
 ![image](https://github.com/user-attachments/assets/16c3a1a4-4c65-49b0-ae2d-9871839f798b)
 
 
