@@ -10,4 +10,6 @@
 ° 1 copie hors-site \
 
 3.Type de sauvegarde \
-
+– Les sauvegardes complètes \
+– Les sauvegardes incrémentales \
+– Les sauvegardes différentielles
