@@ -12,10 +12,10 @@
 3.Type de sauvegarde \
 Sauvegarde complète :
 Dupliquer toutes les données
-Long et consommateur de stockage / Restauration facile
+Long et consommateur de stockage / Restauration facile \
 Sauvegarde incrémentale :
 Uniquement les modifications depuis la sauvegarde précédente
-Rapide et peu consommateur / Restauration plus délicate
+Rapide et peu consommateur / Restauration plus délicate \
 Sauvegarde différentielle
 Uniquement les modifications depuis dernière complète
 Compromis
