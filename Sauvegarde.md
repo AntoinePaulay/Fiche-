@@ -11,5 +11,8 @@
 
 3.Type de sauvegarde \
 – Les sauvegardes complètes \
+Une sauvegarde complète copie l'intégralité des données à chaque opération \
 – Les sauvegardes incrémentales \
-– Les sauvegardes différentielles
+La sauvegarde incrémentale ne sauvegarde que les données modifiées depuis la dernière sauvegarde, qu'elle soit complète ou incrémentale \
+– Les sauvegardes différentielles \
+Les sauvegardes différentielles se situent entre les sauvegardes complètes et incrémentales
