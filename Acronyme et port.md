@@ -32,6 +32,8 @@
 | SMTP     | Simple Mail Transfer Protocol | 25, 465 (SMTPS), 587 | Envoi d’e-mails |
 | SNMP     | Simple Network Management Protocol | 161 (requêtes), 162 (traps) | Supervision et monitoring réseau |
 | SSH      | Secure Shell | 22 (TCP) | Accès sécurisé à distance |
+| TFTP     | Trivial File Transfer Protocol |  69 (UDP) |                     |
+| NTP      |  Network Time Protocol  | 123 (UDP)  |  synchroniser l'horloge locale de votre machine |
 | TCP      | Transmission Control Protocol | N/A | Protocole de transport fiable |
 | TOIP     | Telephony over IP | N/A | Téléphonie sur réseau IP |
 | TTL      | Time To Live | N/A | Durée de vie des paquets réseau |
