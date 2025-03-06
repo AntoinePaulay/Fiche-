@@ -549,13 +549,12 @@ Il faut donc augmenter la taille du swap.
 PaaS :
 PaaS (Platform as a Service) : Fournit une plateforme pour développer et
 gérer des applications sans se soucier de l'infrastructure nécessaire.
-IaaS :
-IaaS (Infrastructure as a Service) : Offre des ressources informatiques
+2.IaaS : IaaS (Infrastructure as a Service) : Offre des ressources informatiques
 virtualisées sur Internet, éliminant le besoin d'acheter ou de gérer une
-infrastructure physique.
-SaaS :
+infrastructure physique. \ 
+3.SaaS :
 SaaS (Software as a Service) : Logiciels hébergés dans le cloud auxquels les
-utilisateurs accèdent et utilisent via Internet, souvent via un navigateur web.
+utilisateurs accèdent et utilisent via Internet, souvent via un navigateur web. \
 
 ### 5.6 Dans la mise en oeuvre d'une solution HA (High Availability), quels sont les élements indispensable ?
 
